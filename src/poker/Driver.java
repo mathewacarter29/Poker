@@ -7,7 +7,7 @@ package poker;
  * @author mathewacarter29
  * Driver for the Poker program
  */
-public class driver {
+public class Driver {
 
 	/**
 	 * Main method for Poker program
